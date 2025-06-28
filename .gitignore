@@ -1,0 +1,16 @@
+# Configurações do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de sistema
+*.log
+Thumbs.db
+desktop.ini
+
